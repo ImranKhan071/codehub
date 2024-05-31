@@ -1,4 +1,4 @@
-# CodeHub [[Live Link](https://codecollab-d4py.onrender.com/)]
+# CodeHub [[Live Link](https://codehub-code.vercel.app/)]
 
 CodeHub is a simple online code editor that allows users to write, edit, and run code directly in their web browser. It provides features such as syntax highlighting, code execution, and the ability to download the code.
 
